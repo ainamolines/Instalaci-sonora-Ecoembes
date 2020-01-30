@@ -1,6 +1,6 @@
 # Anàlisis dels materials
 ## Parelles
 
-##Grup
+## Grup
 
-##Classe
+## Classe
