@@ -1,5 +1,5 @@
 # Instalacio-sonora-Ecoembes
-[Instal·lació sonora Ecoembes]https://github.com/ainamolines/Instalaci-sonora-Ecoembes/blob/master/README.md
+[Instal·lació sonora Ecoembes](https://github.com/ainamolines/Instalaci-sonora-Ecoembes/blob/master/README.md)
 
 Guia sde traball
 
