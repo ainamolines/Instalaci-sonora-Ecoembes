@@ -13,3 +13,5 @@ Guia sde traball
 ### 4 Taller
 
 ### 5 Muntatge i documentació
+[Memoria explicativa](memoria_ecoembes_sergio_aina.pdf)
+[Video demostración](video_demostrativo_aina_sergio.mp4)
